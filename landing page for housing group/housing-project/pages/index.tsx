@@ -90,7 +90,7 @@ export default function Home() {
                         "linear-gradient(45deg, rgba(255,214,0,1) 0%, rgba(255,122,0,1) 25%, rgba(255,0,105,1) 50%, rgba(211,0,197,1) 75%, rgba(118,56,250,1) 100%, rgba(255,214,0,1) 100%)",
                     }}
                     className='relative inline-flex items-center justify-evenly gap-3 pointer no-underline px-3.5 rounded-md font-medium outline-0 select-none align-middle whitespace-nowrap transition-colors ease-in duration-200 border border-solid text-white bg-success border-success-dark hover:bg-success/90 shadow-[0_5px_10px_rgb(0,68,255,0.12)] h-10 leading-10 text-[15px]'
-                    href='https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fexamples%2Ftree%2Fmain%2Fedge-functions%2Fpower-parity-pricing&amp;project-name=edge-functions%2Fpower-parity-pricing&amp;repository-name=edge-functions%2Fpower-parity-pricing'
+                    href='https://www.instagram.com/adtjha'
                     target='_blank'
                     rel='noreferrer'>
                     <Image
@@ -167,7 +167,7 @@ export default function Home() {
         <footer className='py-10 w-full mt-auto border-t flex flex-row items-center justify-center bg-white z-20'>
           <span className='text-primary'>Created by</span>
           <a
-            href='https://vercel.com'
+            href='https://instagram.com/adtjha'
             aria-label='Vercel.com Link'
             target='_blank'
             rel='noreferrer'
